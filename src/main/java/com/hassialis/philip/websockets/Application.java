@@ -1,4 +1,4 @@
-package com.hassialis.philip;
+package com.hassialis.philip.websockets;
 
 import io.micronaut.runtime.Micronaut;
 

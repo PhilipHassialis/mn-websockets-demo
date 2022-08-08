@@ -1,4 +1,6 @@
 micronaut:
+  server:
+    port: 8180
   application:
     name: mnWebsocketsDemo
 netty:
